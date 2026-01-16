@@ -87,7 +87,6 @@ gsap.from('.sec',{
     scrollTrigger:{
         trigger:'.bottom-2',
         scroller:'body',
-        markers:true,
         start:'top 75%',
         end:'top 50%',
         scrub:2,
